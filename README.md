@@ -27,7 +27,7 @@ Healy, R.W., and Ronan, A.D., 1996, Documentation of computer program VS2DH for 
 
 Healy, R.W., 1990, Simulation of solute transport in variably saturated porous media with supplemental information on modifications to the U.S. Geological Survey's Computer Program VS2D: U.S. Geological Survey Water-Resources Investigations Report 90-4025, 125 p., https://doi.org/10.3133/wri904025
 
-Lappala, E.G., Healy, R.W., and Weeks, E.P., 1987, Documentation of computer program VS2D to solve the equations of fluid flow in variably saturated porous media: U.S. Geological Survey Water-Resources Investigations Report 83-4099, 184 p., [https://doi.org/10.3133/WRI834099](https://doi.org/10.3133/WRI834099) (https://pubs.usgs.gov/publication/wri834099)
+Lappala, E.G., Healy, R.W., and Weeks, E.P., 1987, Documentation of computer program VS2D to solve the equations of fluid flow in variably saturated porous media: U.S. Geological Survey Water-Resources Investigations Report 83-4099, 184 p., https://doi.org/10.3133/WRI834099
 
 ### Disclaimer
 
