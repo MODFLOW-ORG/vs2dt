@@ -70,7 +70,7 @@ C
       include 'd_rprop.inc'
       include 'd_scon.inc'
       IMPLICIT DOUBLE PRECISION (A-H,P-Z)
-      CHARACTER,PARAMETER :: VERSION*20='3.3'
+      CHARACTER,PARAMETER :: VERSTR*20='3.3'
 c      include 'c_rspac.inc'
 c      include 'c_kcon.inc'
 c      include 'c_mprop.inc'
@@ -210,7 +210,7 @@ c
       else
        o12p = .FALSE.
       end if
-      WRITE (06,4060) VERSION
+      WRITE (06,4060) VERSTR
       WRITE (06,4070) TITL,TMAX,TUNIT,STIM,NRECH,NUMT,NLY,NXR
       WRITE(06,4080) ANG
       IF(ANG.GT.90.0D0.OR.ANG.LT.-90.0D0)THEN
