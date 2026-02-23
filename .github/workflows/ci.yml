@@ -178,7 +178,8 @@ jobs:
         uses: ncipollo/release-action@v1
         with:
           tag: v${{ env.PROGRAM_VERSION }}
-          name: "${{ env.PROGRAM_NAME }} executables"
+          name: "${{ env.PROGRAM_NAME }} ${{ env.PROGRAM_VERSION }}"
+          body: "This distribution is provided as a courtesy. It should be regarded as provisional and not as an authoritative substitute for the official software release by the original authors."
           artifacts: "${{ env.DIST }}/*"
           draft: true
           allowUpdates: true
